@@ -131,3 +131,4 @@ a'b"c'd"
 ' or 1=1 --
 ' union (select @@version) --
 ; OR '1'='1'
+id: 1, user_name: 'admin', password: 'A9008A23C064287EE6BD817AE3EC6BEA', email: 'team@shchackim.co.il
